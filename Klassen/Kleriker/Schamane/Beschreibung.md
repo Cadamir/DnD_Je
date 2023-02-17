@@ -33,7 +33,7 @@ Einmal pro lange Rast kannst du den Vertrauten eine Frage stellen, welche er nac
 Für eine weitere "Göttliche Macht fokussieren" kann dein Kompangion seine physische Form hinter sich lassen und durch feste Materie gehen. Für bis zu einer Minute kann dein Kompangion dies ausführen. Sollte er am Ende einer Runde in einem festen Körper stehen, erhält er und der Körper 2w6 Energieschaden.
 Wenn du durch die Augen deines Begleiters schaust, kannst du die Geister und Materielle Welt gleichzeitig sehen. Du erhälst "Wahre Sicht".
 
-![Shaman]()
+![Shaman](https://github.com/Cadamir/DnD_Je/blob/main/Klassen/Kleriker/Schamane/Schamane.jpg?raw=true)
 
 \page
 ### Liebling der Geister

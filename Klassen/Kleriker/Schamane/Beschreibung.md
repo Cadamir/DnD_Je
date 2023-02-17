@@ -33,7 +33,12 @@ Einmal pro lange Rast kannst du den Vertrauten eine Frage stellen, welche er nac
 Für eine weitere "Göttliche Macht fokussieren" kann dein Kompangion seine physische Form hinter sich lassen und durch feste Materie gehen. Für bis zu einer Minute kann dein Kompangion dies ausführen. Sollte er am Ende einer Runde in einem festen Körper stehen, erhält er und der Körper 2w6 Energieschaden.
 Wenn du durch die Augen deines Begleiters schaust, kannst du die Geister und Materielle Welt gleichzeitig sehen. Du erhälst "Wahre Sicht".
 
-![Shaman](https://github.com/Cadamir/DnD_Je/blob/main/Klassen/Kleriker/Schamane/Schamane.jpg?raw=true)
+![Schamane](https://github.com/Cadamir/DnD_Je/blob/main/Klassen/Kleriker/Schamane/Schamane.jpg?raw=true){width:325px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:0,left:110px,margin-bottom:-30px
+##### Schamane
+[Oriental Adventure]()
+}}
 
 \page
 ### Liebling der Geister
@@ -57,3 +62,11 @@ Du kannst das deinen Weisheitsmodifikator-Mal am Tag machen:
 * Reisender: Ein Reisender Geist kommt zu dir. Du erhälst Übung im Umgang mit einem Fahrzeug oder Werkzeug deiner Wahl. Du erhöhst die Reisegeschwindigkeit deiner Gruppe in schwierigen Gelände um 50%.
 * Der Vorfahre eines Characters (SC und NSC): Du kannst den Vorfahren 1min lang Fragen stellen. Dieser kann erzählen, was er möchte und muss nicht wahrheitsgemäß antworten.
 
+:::::::
+
+![Schamane mit Geist](https://github.com/Cadamir/DnD_Je/blob/main/Klassen/Kleriker/Schamane/cedric-roux-Schamane.jpg?raw=true) {width:325px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:-0,left:150px,margin-bottom:-30px
+##### Cat Warrior
+[Tyron](https://www.artstation.com/tyron)
+}}
